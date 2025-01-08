@@ -1,1 +1,1 @@
-# Code-Alpha-Task-3
+Music Generation with AI
